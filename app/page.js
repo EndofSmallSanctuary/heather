@@ -11,11 +11,11 @@ export default function Home() {
         <Counter title="Counter#3" />
       </main>
       <Link href={"/dashboard"} className="underline">
-       Dashboard
+        Dashboard
       </Link>
       <footer className="row-start-3">
         <Image
-          src="/file.svg"
+          src="/testbg.png"
           alt="logo"
           width={100}
           height={100}
